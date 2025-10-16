@@ -14,7 +14,7 @@
 <div align="center"> 
  <p><strong> Summon me -> mertozturkdev at outlook dot com </strong></p>
  <p><strong>I respond faster than npm installs but slower than C#(❤️) async.</strong></p>
- <p><strong>Responses are not provided on weekends and <a href="https://www.timeanddate.com/holidays/turkey/">Turkish Holidays</a>, or whenever I game, read, or study.</strong></p>
+ <p><strong>Responses are not provided on weekends or <a href="https://www.timeanddate.com/holidays/turkey/">Turkish Holidays</a>, or whenever I game, read, or study.</strong></p>
 </div>
 
 <div align="center">
