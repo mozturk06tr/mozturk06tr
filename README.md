@@ -21,5 +21,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mozturk06tr/mozturk06tr/main/gold.gif" alt="Gold" style="max-width:100%;height:auto;"/>
+  <p>🏳️‍🌈</p>
 </div>
 
